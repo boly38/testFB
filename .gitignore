@@ -1,0 +1,9 @@
+# IntelliJ
+*.iml
+.idea/
+
+# node generated
+node_modules/
+
+# work in progress
+draft/
